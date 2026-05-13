@@ -2,3 +2,5 @@ node_modules/
 .next_topic
 .hn_scan_log.json
 .schedule
+__pycache__/
+*.pyc
